@@ -5,14 +5,15 @@ Coin Market Cap Account Creating &amp; Trending BOT
   <img src="https://raw.githubusercontent.com/trurstspijee/CoinMarketCap-Trending-Bot/main/1.gif" width="auto" height="450"/>
 </p>
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/trurstspijee/CoinMarketCap-Trending-Bot/main/2.jpg" width="auto" height="450"/>
 </p>
 
 Lite Client Restrictions:
-*Account creation is limited with 144 accounts.
-*Usage time is limited with 2 hours per session.
-*Will use public proxies only.
+* Account creation is limited with 144 accounts.
+* Usage time is limited with 2 hours per session.
+* Will use public proxies only.
 
 Full Client Features:
 *Fully proxy support in both scripts
